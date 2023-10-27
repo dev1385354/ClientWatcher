@@ -1,2 +1,2 @@
-- Obfuscate client before uploading.
+- Client is encrypted & obfuscated.
 - Server is encrypted.
